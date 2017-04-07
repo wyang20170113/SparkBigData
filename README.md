@@ -4,7 +4,7 @@ This folder mainly contains solutions for three assignments from the course
 
 ## Dataset 
 
-Wikipedia: [wikipedia](http://alaska.epfl.ch/~dockermoocs/bigdata/wikipedia.dat)
-Stackoverflow: [stackoverflow](http://alaska.epfl.ch/~dockermoocs/bigdata/stackoverflow.csv)
-Timeusage: [timeusage](http://alaska.epfl.ch/~dockermoocs/bigdata/atussum.csv)
+* Wikipedia: [wikipedia](http://alaska.epfl.ch/~dockermoocs/bigdata/wikipedia.dat)
+* Stackoverflow: [stackoverflow](http://alaska.epfl.ch/~dockermoocs/bigdata/stackoverflow.csv)
+* Timeusage: [timeusage](http://alaska.epfl.ch/~dockermoocs/bigdata/atussum.csv)
 
